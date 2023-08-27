@@ -1,3 +1,3 @@
-# foundry-FundMe
+# Foundry-FundMe
 
-##FundMe project is in sub-folder
+## FundMe project is in sub-folder
